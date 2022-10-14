@@ -1,5 +1,42 @@
 # DSSSR_blog
 Hello! Welcome to my blog!
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+### 个人信息
+#### 姓名xxx
+#### 学历xxx
+#### 学校xxx
+#### 邮箱：xxx
+#### 地址：xxx
+
+### 最新消息
+1.消息1xxx
+
+### 研究方向
+- 文本挖掘
+- 数据图谱
+
+### 荣誉奖励
+- 奖学金
+- 荣誉称号
+- 比赛获奖
+
+### 项目研究
+#### 公司/学校/研究所（2022.9～至今）
+- **项目1**
+- 项目描述
+- **项目2**
+- 项目描述
+
+#### 公司/学校/研究所（2021.9～2022.9）
+- **项目1**
+- 项目描述
+- **项目2**
+- 项目描述
+
+#### 公司/学校/研究所（2020.9～2021.9）
+- **项目1**
+- 项目描述
+- **项目2**
+- 项目描述
+
+
