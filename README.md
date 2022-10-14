@@ -7,6 +7,8 @@ Hello! Welcome to my blog!
 #### 学校xxx
 #### 邮箱：xxx
 #### 地址：xxx
+[英文版](Resume-en.md)
+
 
 ### 最新消息
 1.消息1xxx
